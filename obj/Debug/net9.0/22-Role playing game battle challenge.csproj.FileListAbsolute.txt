@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\bin\Debug\net9.0\22-Role playing game battle challenge.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\bin\Debug\net9.0\22-Role playing game battle challenge.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\bin\Debug\net9.0\22-Role playing game battle challenge.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\bin\Debug\net9.0\22-Role playing game battle challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\bin\Debug\net9.0\22-Role playing game battle challenge.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\refint\22-Role playing game battle challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\22-Role playing game battle challenge.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\22-Role playing game battle challenge\obj\Debug\net9.0\ref\22-Role playing game battle challenge.dll

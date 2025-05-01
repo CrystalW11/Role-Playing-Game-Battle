@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "22-Role playing game battle challenge/1.0.0": {
+        "runtime": {
+          "22-Role playing game battle challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22-Role playing game battle challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
